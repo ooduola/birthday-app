@@ -6,4 +6,6 @@ gem 'sinatra'
 
 gem 'shotgun'
 
+gem 'capybara'
+
 end

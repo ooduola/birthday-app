@@ -3,7 +3,7 @@ require 'sinatra/base'
 class BirthdayApp < Sinatra::Base
 
   get '/' do
-    'Keep going Tunji'
+    'testing infrastructure works'
   end
 
 end
